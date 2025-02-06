@@ -1,0 +1,3 @@
+wifi paleidineja mqtt.lua 
+
+vis pasitikrinti mqtt statusa :D
